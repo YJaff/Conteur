@@ -13,6 +13,9 @@ public class MainActivity extends AppCompatActivity {
     private TextView TextCpt;
     private BtnHandler BtnHandler;
 
+
+
+    // YO Cher collaborateur!!!!
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
